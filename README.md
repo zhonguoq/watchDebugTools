@@ -1,1 +1,2 @@
-# watchDebugTools
+# watch-debug-tools
+
